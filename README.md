@@ -12,7 +12,7 @@
 ### Fundamentos Aritméticos
 |Etapa|Desafio|Solução|Status|
 |------|----|--------|-----------|
-|1|Quantidade de Números Positivos|[Código](desafios/JavaScript/2.Fundamentos%20Aritméticos/1.QuantidadeDeNúmerosPositivos.js)|:heavy_check_mark:|
+|1|Quantidade de Números Positivos|:[Código](desafios/JavaScript/2.Fundamentos%20Aritméticos/1.QuantidadeDeNúmerosPositivos.js):|:heavy_check_mark:|
 |2|Exibindo Números Pares|[Código](desafios/JavaScript/2.Fundamentos%20Aritméticos/2.ExibindoNúmerosPares.js)|:heavy_check_mark:|
 |3|Análise de Números|[Código](desafios/JavaScript/2.Fundamentos%20Aritméticos/3.AnáliseDeNúmeros.js)|:heavy_check_mark:|
 |4|Contagem de Células|[Código](desafios/JavaScript/2.Fundamentos%20Aritméticos/4.ContagemDeCédulas.js)|:heavy_check_mark:|
@@ -23,6 +23,7 @@
 ### Solucionando problemas básicos de Ruby
 |Etapa|Desafio|Solução|Status|
 |------|----|--------|-----------|
+|0|Criando o seu primeiro projeto com Ruby|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/CriandoOSeuPrimeiroProjetoComRuby.rb)|:heavy_check_mark:|
 |1|Par ou ímpar|[Código](desafios/Ruby/1.Solucionando%20problemas%20básicos%20em%20Ruby/1.ParOuÍmpar.rb)|:heavy_check_mark:|
 |2|DDD|[Código](desafios/Ruby/1.Solucionando%20problemas%20básicos%20em%20Ruby/2.DDD.rb)|:heavy_check_mark:|
 |3|Idade em Dias|[Código](desafios/Ruby/1.Solucionando%20problemas%20básicos%20em%20Ruby/3.IdadeEmDias.rb)|:heavy_check_mark:|
