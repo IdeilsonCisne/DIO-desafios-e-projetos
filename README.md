@@ -30,5 +30,6 @@
 |5|Esfera|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/3.Esfera.rb)|:heavy_check_mark:|
 |6|Coxinhas de Bueno|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/4.CoxinhaDeBueno.rb)|:heavy_check_mark:|
 |7|Cálculo com potência|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/5.C%C3%A1lculoComPot%C3%AAncia.rb)|:heavy_check_mark:|
+|8|Consulta de CPF|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/6.ConsultaDeCPF.rb)|:heavy_check_mark:|
 
 # Projetos
