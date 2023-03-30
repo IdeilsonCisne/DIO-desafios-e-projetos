@@ -31,5 +31,8 @@
 |6|Coxinhas de Bueno|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/4.CoxinhaDeBueno.rb)|:heavy_check_mark:|
 |7|Cálculo com potência|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/5.C%C3%A1lculoComPot%C3%AAncia.rb)|:heavy_check_mark:|
 |8|Consulta de CPF|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/6.ConsultaDeCPF.rb)|:heavy_check_mark:|
+|9|Soma Dois|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/7.SomaDois.rb)|:heavy_check_mark:|
+|10|Temperatura Amena|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/8.TemperaturaAmena.rb)|:heavy_check_mark:|
+|11|Qual número é o maior|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/9.QualN%C3%BAmero%C3%89OMaior.rb)|:heavy_check_mark:|
 
 # Projetos
