@@ -38,3 +38,7 @@
 |13|Preço do Gás|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/11.Pre%C3%A7oDoG%C3%A1s.rb)|:heavy_check_mark:|
 |14|API de Receitas|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/12.APIdeReceitas.rb)|:heavy_check_mark:|
 # Projetos
+## :computer: Ruby
+|Etapa|Projeto|Solução|Status|
+|------|----|--------|-----------|
+|1|Criando uma Dinâmica de Mercado com POO|[Código](projetos/Ruby/1.%20Din%C3%A2mica%20de%20Mercado%20com%20POO/)|:heavy_check_mark:|
