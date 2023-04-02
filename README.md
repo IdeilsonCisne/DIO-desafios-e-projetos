@@ -35,5 +35,6 @@
 |10|Temperatura Amena|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/8.TemperaturaAmena.rb)|:heavy_check_mark:|
 |11|Qual número é o maior|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/9.QualN%C3%BAmero%C3%89OMaior.rb)|:heavy_check_mark:|
 |12|Índices pares do Array|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/10.%C3%8DndicesParesDoArray.rb)|:heavy_check_mark:|
-|13|Preço do Gás|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/11.Pre%C3%A7oDoG%C3%A1s.rb)
+|13|Preço do Gás|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/11.Pre%C3%A7oDoG%C3%A1s.rb)|:heavy_check_mark:|
+|14|API de Receitas|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/12.APIdeReceitas.rb)|:heavy_check_mark:|
 # Projetos
