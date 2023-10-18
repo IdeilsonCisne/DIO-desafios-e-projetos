@@ -37,6 +37,11 @@
 |12|Índices pares do Array|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/10.%C3%8DndicesParesDoArray.rb)|:heavy_check_mark:|
 |13|Preço do Gás|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/11.Pre%C3%A7oDoG%C3%A1s.rb)|:heavy_check_mark:|
 |14|API de Receitas|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/12.APIdeReceitas.rb)|:heavy_check_mark:|
+
+## :computer: Python
+|Etapa|Desafio|Solução|Status|
+|:------:|:----:|:--------:|:-----------:|
+|1|Explorando IA Generativa em um Pipeline de ETL com Python|[Código](desafios/Python/SantanderDevWeek2023.ipynb)|:heavy_check_mark:|
 # Projetos
 ## :computer: Ruby
 |Etapa|Projeto|Solução|Status|
