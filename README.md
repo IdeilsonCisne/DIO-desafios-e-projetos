@@ -39,9 +39,14 @@
 |14|API de Receitas|[Código](desafios/Ruby/2.%20Conhecendo%20a%20linguagem%20Ruby/12.APIdeReceitas.rb)|:heavy_check_mark:|
 
 ## :computer: Python
+### Solucionando problemas básicos
 |Etapa|Desafio|Solução|Status|
 |:------:|:----:|:--------:|:-----------:|
 |1|Explorando IA Generativa em um Pipeline de ETL com Python|[Código](desafios/Python/SantanderDevWeek2023.ipynb)|:heavy_check_mark:|
+|2|Variáveis em Ação: Equilibrando o Saldo|[Código](desafios/Python/1.Solucionando%20problemas%20b%C3%A1sicos/1.Vari%C3%A1veis%20em%20A%C3%A7%C3%A3o%3A%20Equilibrando%20o%20Saldo.py)|
+|3|Estrutura de Dados: Organizando Os Seus Ativos[Código](desafios/Python/1.Solucionando%20problemas%20b%C3%A1sicos/2.Estrutura%20de%20Dados%3A%20Organizando%20Os%20Seus%20Ativos.py)|
+|4|Condicionalmente Rico: Tomadas de Decisão no Código[Código](desafios/Python/1.Solucionando%20problemas%20b%C3%A1sicos/3.Condicionalmente%20Rico%3A%20Tomadas%20de%20Decis%C3%A3o%20no%20C%C3%B3digo.py)|
+|5|Juros Compostos[Código](desafios/Python/1.Solucionando%20problemas%20b%C3%A1sicos/4.Juros%20Compostos.py)|
 # Projetos
 ## :computer: Ruby
 |Etapa|Projeto|Solução|Status|
